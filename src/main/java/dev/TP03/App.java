@@ -3,8 +3,8 @@ package dev.TP03;
 import java.util.Scanner;
 
 /**
- * Pizza world!!!
- *
+ * Pizza world!!! Exercice where we practice loops, and tables.
+ *@author Paupau
  */
 public class App 
 {
