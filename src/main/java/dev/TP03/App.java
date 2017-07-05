@@ -74,7 +74,7 @@ public class App
        		 	pizzas[a][3]=scann.next();}
 
         		case (4):
-        			System.out.println( "Veuillez saisir le numero de la pizza a eliminer:" );
+        			System.out.println( "Veuillez saisir le code de la pizza a eliminer:" );
         		System.out.println( "99 pour abandonner" );
         		String code =scann.next();
         		
